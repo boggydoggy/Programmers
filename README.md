@@ -13,3 +13,5 @@
 [숫자 문자열과 영단어](https://github.com/boggydoggy/Programmers/tree/main/NumericStringNEnglishWords)
 
 [키패드 누르기](https://github.com/boggydoggy/Programmers/tree/main/PressingKeypad)
+
+[크레인 인형뽑기 게임](https://github.com/boggydoggy/Programmers/tree/main/CraneGame)
