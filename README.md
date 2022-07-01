@@ -19,3 +19,5 @@
 [없는 숫자 더하기](https://github.com/boggydoggy/Programmers/tree/main/FindNumbersThatDoesntExist)
 
 [음양 더하기](https://github.com/boggydoggy/Programmers/tree/main/PositiveNNegativeIntegers)
+
+[내적](https://github.com/boggydoggy/Programmers/tree/main/InternalGrafting)
